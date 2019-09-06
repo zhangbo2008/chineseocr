@@ -1,4 +1,6 @@
 ## 本项目基于[yolo3](https://github.com/pjreddie/darknet.git) 与[crnn](https://github.com/meijieru/crnn.pytorch.git)  实现中文自然场景文字检测及识别
+模型下载地址:  https://v2.fangcloud.com/share/9f3bcdab02ce90b165074b144e 
+这个比百度云能快点
 
 # 实现功能
 - [x]  文字方向检测 0、90、180、270度检测（支持dnn/tensorflow） 
@@ -111,4 +113,4 @@ http://127.0.0.1:8080/ocr
 4. CTPN  https://github.com/tianzhi0549/CTPN       
 5. keras yolo3 https://github.com/qqwweee/keras-yolo3.git    
 6. darknet keras 模型转换参考 参考：https://www.cnblogs.com/shouhuxianjian/p/10567201.html  
-7. 语言模型实现 https://github.com/lukhy/masr
+7. 语言模型
